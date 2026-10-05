@@ -8,8 +8,9 @@ which the *model* chooses the next step (usually a tool call) until it stops.
 change. A prompt is none of those things. The model decides *whether* to score
 a lead; the tool decides *what the score is*.
 
-**Q5.** (1) the model emits a final answer / no tool calls, (2) the reply cannot
-be parsed, (3) `max_steps` is exceeded.
+**Q5.** (1) the model emits no tool calls — `tools_condition` routes to END with a
+final answer, (2) an invalid/parsed tool call is fed back as an error observation
+and retried, (3) `recursion_limit` / `max_steps` is exceeded.
 
 </details>
 
@@ -37,8 +38,8 @@ versa.
 
 ### What Session 2 adds
 
-You now have a working agent loop. Session 2 wraps it in the libraries you will
-actually ship:
+You now have a working framework agent. Session 2 reuses it inside the systems
+you will actually ship:
 
 - **LangChain** — chat models, `@tool`, `bind_tools`, `create_agent`
 - **LangGraph** — state, nodes, edges, a checkpointer

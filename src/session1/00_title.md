@@ -9,7 +9,7 @@
 | **Course** | Introduction to AI Agents |
 | **Session** | 1 of 2 (≈ 2 hours, with breaks) |
 | **Scenario** | A fictional B2B office-furniture distributor with a sales problem |
-| **Stack** | Python · Hugging Face · pandas · (LangChain/LangGraph in Session 2) |
+| **Stack** | Python · Hugging Face · pandas · LangChain / LangGraph from §6 on |
 | **Audience** | Mixed: some Python is enough. New to ML? Read the 🧠 blocks and run the 💻 cells. Comfortable with Python? Do every ✍️ exercise. |
 | **Runs in** | Google Colab, free tier. **No GPU needed. No payment needed.** |
 | **API keys** | Optional — everything runs offline in `mock` mode |
@@ -52,14 +52,13 @@ can be wrong.
 1. Explain, precisely, the difference between *calling an LLM* and *running an agent*.
 2. Load a model from Hugging Face and see with your own eyes what a chat
    template, a token and a context window are.
-3. Read and write a **tool schema** — the JSON that tells a model what it is allowed to do.
-4. **Build a working tool-calling agent loop from scratch**, in about 30 lines,
-   with no framework at all.
+3. Read a LangChain **tool schema** — the JSON that tells a model what it is allowed to do.
+4. **Run a working tool-calling agent with the framework** (`bind_tools`,
+   `create_agent`, LangGraph `ToolNode`) on the real CRM.
 
-Point 4 is the important one. Frameworks are Session 2. If you can write the
-loop yourself, LangChain and LangGraph stop being magic and become what they
-actually are: *somebody else's well-tested version of your loop, plus state
-management.*
+Point 4 is the important one. The loop is the same one from §2 — the framework
+is *somebody else's well-tested version of it, plus state management.* Session 2
+then wraps that loop in routing, approval gates and memory.
 
 ---
 
@@ -73,7 +72,7 @@ management.*
 | 4 | Chat templates, tokens, context windows | 15 | ✓ |
 | 5 | A hosted model: HF Inference Providers | 10 | ✓ |
 | 6 | Tools: the JSON contract | 20 | ✓ |
-| 7 | Building the agent loop by hand | 25 | ✓ |
+| 7 | The agent loop, via the framework | 25 | ✓ |
 | 8 | First working agent on the real CRM | 15 | ✓ |
 | 9 | When agents go wrong | 10 | ✓ |
 | 10 | Quiz + homework | 10 | ✓ |

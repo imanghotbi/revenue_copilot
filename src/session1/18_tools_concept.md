@@ -30,9 +30,12 @@ decides to act it emits something like:
 {"name": "account_metrics", "arguments": {"customer_id": "C-1006"}}
 ```
 
-**Your code** parses that, calls the real function, and puts the return value back
+**Your code** runs the requested function and puts the return value back
 into the conversation as a new message. The model then reads the result and
 decides what to do next. Nobody at OpenAI or Qwen is executing anything for you.
+In this course that parse-and-call step is done by the framework:
+`bind_tools` sends the schemas, and LangGraph's `ToolNode` (inside
+`create_agent`) executes the calls and feeds the observations back.
 
 ### 6.2 Writing schemas that models can actually use
 

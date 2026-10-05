@@ -1,4 +1,6 @@
 # 💻 Tools are just functions: call one yourself, no model involved.
+import json
+
 print(">>> crm.get_customer.invoke({'customer_id': 'C-1006'})\n")
 print(crm.get_customer.invoke({"customer_id": "C-1006"}))
 

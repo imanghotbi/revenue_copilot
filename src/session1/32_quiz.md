@@ -13,4 +13,4 @@ policy?
 **Q4.** Why do `score_lead` and `account_metrics` live in Python rather than in
 the prompt?
 
-**Q5.** Name the three exits from `agent_loop` / `native_agent_loop`.
+**Q5.** Name the three exits from a framework agent run (`create_agent` / ReAct graph).

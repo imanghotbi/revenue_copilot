@@ -1,6 +1,6 @@
 | Failure | What you just saw | What you do about it |
 |---|---|---|
-| **Never-ending loop** | `status: max_steps_exceeded` | Hard cap. Also detect *identical* repeated calls and abort. |
+| **Never-ending loop** | `GraphRecursionError` via `recursion_limit` | Hard cap. Also detect *identical* repeated calls and abort. |
 | **Invented tool** | `"unknown tool 'salesforce_query'"` fed back as an observation | Return a helpful error, don't crash. The model often recovers. |
 | **Context bloat** | hundreds of tokens of CRM JSON, every step | Compact tool returns; summarise old observations; cap history. |
 | **Irreversible write** | §8 already logged to the CRM before you read the answer | Don't give the agent write tools until a human has approved. **Session 2.** |
