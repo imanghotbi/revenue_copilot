@@ -1,0 +1,29 @@
+customer_id,company,contact_name,contact_email,segment,region,owner,plan,employee_count,signup_date,health,notes
+C-1001,Acme Logistik GmbH,Hannah Vogel,h.vogel@acme-logistik.example,Enterprise,DACH,Priya Raman,Scale,2400,2022-03-14,green,HQ in Hamburg. Prefers delivery in Q1 budget cycle.
+C-1002,Bluepeak Analytics,Marcus Feld,marcus@bluepeak.example,Mid-Market,UK & Ireland,Tom Becker,Growth,180,2023-01-09,green,Fast-growing data consultancy; buys desks in batches of 20.
+C-1003,Cedar & Stone Architects,Nina Okafor,nina@cedarstone.example,SMB,UK & Ireland,Tom Becker,Basic,24,2023-08-02,amber,Price sensitive; asked twice for a discount.
+C-1004,Delta Foods NV,Luc Peeters,luc.peeters@deltafoods.example,Enterprise,Benelux,Sofia Almeida,Scale,5100,2021-11-23,green,"Annual framework contract, renewed each November."
+C-1005,Everline Insurance,Rita Kowalski,r.kowalski@everline.example,Enterprise,DACH,Priya Raman,Scale,3300,2022-06-30,amber,Procurement process is slow (6-8 weeks). Needs compliance docs.
+C-1006,Fjord Energi AS,Lars Haugen,lars.haugen@fjordenergi.example,Mid-Market,Nordics,Sofia Almeida,Growth,420,2023-04-17,red,Unhappy about a late delivery in June. At risk of churn.
+C-1007,Greenline Retail,Amira Haddad,amira@greenline.example,Mid-Market,Southern Europe,Jack O'Neill,Growth,610,2022-09-05,green,Opens 3 new stores per quarter; steady repeat orders.
+C-1008,Helix Biotech,Daniel Roth,d.roth@helixbio.example,SMB,DACH,Priya Raman,Basic,45,2024-02-11,amber,Lab furniture enquiry pending; waiting on budget approval.
+C-1009,Ironwood Construction,Sean Duffy,sean@ironwood.example,Mid-Market,UK & Ireland,Tom Becker,Growth,260,2022-12-01,green,Site offices: buys pods and booths in volume.
+C-1010,Juniper Health Clinics,Dr. Eva Lindqvist,eva.lindqvist@juniperhealth.example,Public Sector,Nordics,Sofia Almeida,Scale,1800,2021-07-19,green,Tender-driven purchasing. Requires accessibility certification.
+C-1011,Kite Media Group,Owen Blake,owen@kitemedia.example,SMB,UK & Ireland,Tom Becker,Basic,38,2024-05-22,red,No orders for 9 months. Last invoice dispute unresolved.
+C-1012,Lumen Schools Trust,Grace Mbeki,grace@lumenscholars.example,Public Sector,UK & Ireland,Jack O'Neill,Growth,950,2023-02-27,green,Buys in August for the September term.
+C-1013,Meridian Bank,Claudia Fischer,c.fischer@meridianbank.example,Enterprise,DACH,Priya Raman,Scale,8200,2021-05-08,green,Largest account by revenue. Strict security questionnaire.
+C-1014,Northgate Hotels,Pedro Sousa,pedro.sousa@northgate.example,Mid-Market,Southern Europe,Jack O'Neill,Growth,700,2023-06-14,amber,Seasonal buyer; quiet in Q4.
+C-1015,Orion Robotics,Yuki Tanaka,yuki@orionrobotics.example,SMB,Benelux,Sofia Almeida,Basic,62,2024-08-30,green,New logo. Interested in sit-stand desks for the lab.
+C-1016,Pinetail Publishing,Fiona Marsh,fiona@pinetail.example,SMB,UK & Ireland,Tom Becker,Basic,19,2023-10-03,red,Downgraded plan in May. Low engagement.
+C-1017,Quartz Manufacturing,Milan Horak,m.horak@quartzmfg.example,Enterprise,DACH,Priya Raman,Scale,4100,2022-01-25,green,Factory floor seating every 18 months.
+C-1018,Riverbend Legal,Anne Dubois,anne@riverbendlegal.example,Mid-Market,Benelux,Sofia Almeida,Growth,140,2023-03-12,green,Prefers premium finishes; high average order value.
+C-1019,Solstice Energy,Tomas Nyman,tomas@solstice.example,Mid-Market,Nordics,Sofia Almeida,Growth,310,2022-10-08,amber,Considering a competitor on price.
+C-1020,Tidewater Shipping,Rui Costa,rui@tidewater.example,Enterprise,Southern Europe,Jack O'Neill,Scale,2900,2021-09-15,green,Port offices across 6 countries.
+C-1021,Umber Design Studio,Lea Braun,lea@umberdesign.example,SMB,DACH,Priya Raman,Basic,12,2024-11-04,green,Small but very responsive; refers other studios.
+C-1022,Vantage Sports Ltd,Chris Nolan,chris@vantagesports.example,Mid-Market,UK & Ireland,Tom Becker,Growth,230,2023-07-21,amber,Two orders returned in 2026 - quality complaints.
+C-1023,Westfield Council,Sarah Jennings,s.jennings@westfield.example,Public Sector,UK & Ireland,Jack O'Neill,Scale,3600,2021-12-06,green,Framework agreement expires 2027-03-31.
+C-1024,Xenon Labs,Arun Patel,arun@xenonlabs.example,SMB,Benelux,Sofia Almeida,Basic,28,2025-01-18,green,Start-up; small orders but growing fast.
+C-1025,Yellowbrick Logistics,Marta Nowak,marta@yellowbrick.example,Mid-Market,DACH,Priya Raman,Growth,480,2022-08-11,green,Depot refits every spring.
+C-1026,Zephyr Airlines,Kenji Mori,kenji@zephyrair.example,Enterprise,Nordics,Sofia Almeida,Scale,6700,2021-06-02,amber,Head office refurb paused pending merger news.
+C-1027,Aurora Cosmetics,Elise Grand,elise@auroracosm.example,Mid-Market,Southern Europe,Jack O'Neill,Growth,205,2023-09-29,green,Retail rollout in 4 countries planned for 2027.
+C-1028,Bastion Security,Viktor Ivanov,viktor@bastionsec.example,SMB,DACH,Tom Becker,Basic,55,2024-04-06,red,Payment 45 days overdue. Credit hold applies.

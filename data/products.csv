@@ -1,0 +1,15 @@
+sku,name,category,unit_price_eur,stock,lead_time_days
+SKU-CH-100,Ergo Pro Task Chair,Seating,289.0,140,5
+SKU-CH-120,Ergo Pro Task Chair (Mesh),Seating,319.0,62,5
+SKU-CH-210,Executive Leather Chair,Seating,649.0,18,14
+SKU-DS-300,Sit-Stand Desk 160cm,Desks,749.0,35,10
+SKU-DS-320,Sit-Stand Desk 180cm (Dual motor),Desks,899.0,12,17
+SKU-DS-410,Fixed Desk 140cm,Desks,329.0,88,7
+SKU-ST-500,Acoustic Meeting Pod (4p),Storage & Acoustics,4250.0,4,35
+SKU-ST-520,Acoustic Phone Booth (1p),Storage & Acoustics,2150.0,7,28
+SKU-CB-600,Storage Cabinet 3-drawer,Storage & Acoustics,419.0,51,9
+SKU-LT-700,LED Monitor Arm,Accessories,129.0,220,3
+SKU-LT-710,Laptop Riser,Accessories,79.0,310,3
+SKU-PP-800,A4 Copy Paper (box of 10 reams),Office Supplies,42.5,640,2
+SKU-PP-810,Toner Cartridge CF-400,Office Supplies,88.9,96,4
+SKU-PP-820,Breakroom Bundle (coffee + snacks),Office Supplies,156.0,74,4

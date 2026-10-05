@@ -1,0 +1,9 @@
+ticket_id,customer_id,opened,category,status,summary
+T-9001,C-1006,2026-06-12,late_delivery,open,Order #O-4417 (20 task chairs) delivered 21 days after the promised date; customer had to rent temporary seating. Requested a written explanation and compensation.
+T-9002,C-1006,2026-07-02,late_delivery,closed,Follow-up call promised but never made. Customer escalated to their account manager. Still no credit note issued.
+T-9003,C-1011,2026-01-20,billing_dispute,open,"Invoice INV-88214 charged for 12 monitor arms, customer received 10. Dispute unresolved for 8 months; customer stopped ordering."
+T-9004,C-1022,2026-04-03,product_quality,closed,Two Ergo Pro chairs arrived with damaged gas lifts. Replaced under warranty.
+T-9005,C-1022,2026-08-19,product_quality,open,Third quality complaint this year. Customer asked whether the batch has a known defect. Awaiting supplier report.
+T-9006,C-1016,2026-05-11,plan_downgrade,closed,"Downgraded from Growth to Basic, citing budget cuts. No win-back attempt was made."
+T-9007,C-1028,2026-08-25,billing_dispute,open,Payment 45 days overdue; account placed on credit hold. Customer disputes the delivery address on the invoice.
+T-9008,C-1003,2026-09-05,pricing,closed,Requested a 15% discount on a 10-desk order. Approved at 8%.

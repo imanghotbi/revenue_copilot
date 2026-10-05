@@ -1,0 +1,130 @@
+activity_id,customer_id,date,type,owner,summary
+A-501,C-1001,2026-07-27,call,Priya Raman,Contract renewal conversation
+A-502,C-1001,2026-04-27,call,Priya Raman,Contract renewal conversation
+A-503,C-1001,2026-08-17,email,Priya Raman,Sent updated price list
+A-504,C-1001,2026-06-20,meeting,Priya Raman,Contract renewal conversation
+A-505,C-1001,2026-01-30,note,Priya Raman,Quarterly check-in call
+A-506,C-1001,2026-03-17,task,Priya Raman,Contract renewal conversation
+A-507,C-1002,2026-08-10,call,Tom Becker,Discussed upcoming office move
+A-508,C-1002,2026-08-17,email,Tom Becker,Quarterly check-in call
+A-509,C-1002,2026-01-30,meeting,Tom Becker,Reviewed open support tickets
+A-510,C-1003,2026-09-28,meeting,Tom Becker,Demo of the new acoustic pod range
+A-511,C-1003,2026-09-03,meeting,Tom Becker,Discussed upcoming office move
+A-512,C-1004,2026-08-11,task,Sofia Almeida,Quarterly check-in call
+A-513,C-1004,2025-12-06,task,Sofia Almeida,Demo of the new acoustic pod range
+A-514,C-1004,2026-02-11,note,Sofia Almeida,Sent updated price list
+A-515,C-1004,2026-05-07,note,Sofia Almeida,Reviewed open support tickets
+A-516,C-1004,2026-06-26,note,Sofia Almeida,Demo of the new acoustic pod range
+A-517,C-1005,2026-08-09,note,Priya Raman,Sent updated price list
+A-518,C-1005,2025-12-13,email,Priya Raman,Demo of the new acoustic pod range
+A-519,C-1005,2026-03-01,task,Priya Raman,Sent updated price list
+A-520,C-1005,2026-07-29,call,Priya Raman,Demo of the new acoustic pod range
+A-521,C-1005,2026-08-16,note,Priya Raman,Sent updated price list
+A-522,C-1005,2026-06-19,task,Priya Raman,Discussed upcoming office move
+A-523,C-1006,2026-03-11,meeting,Sofia Almeida,Demo of the new acoustic pod range
+A-524,C-1006,2026-04-29,note,Sofia Almeida,Quarterly check-in call
+A-525,C-1006,2026-06-07,email,Sofia Almeida,Contract renewal conversation
+A-526,C-1006,2026-06-26,call,Sofia Almeida,Reviewed open support tickets
+A-527,C-1006,2026-08-28,meeting,Sofia Almeida,Reviewed open support tickets
+A-528,C-1007,2026-04-04,call,Jack O'Neill,Reviewed open support tickets
+A-529,C-1007,2026-09-25,call,Jack O'Neill,Quarterly check-in call
+A-530,C-1007,2026-02-04,note,Jack O'Neill,Quarterly check-in call
+A-531,C-1007,2026-03-27,note,Jack O'Neill,Sent updated price list
+A-532,C-1007,2026-05-14,call,Jack O'Neill,Quarterly check-in call
+A-533,C-1008,2026-03-26,note,Priya Raman,Sent updated price list
+A-534,C-1008,2026-01-20,note,Priya Raman,Reviewed open support tickets
+A-535,C-1008,2026-07-18,task,Priya Raman,Contract renewal conversation
+A-536,C-1008,2026-01-09,meeting,Priya Raman,Sent updated price list
+A-537,C-1008,2026-05-30,note,Priya Raman,Quarterly check-in call
+A-538,C-1008,2026-04-16,call,Priya Raman,Discussed upcoming office move
+A-539,C-1008,2026-07-23,task,Priya Raman,Quarterly check-in call
+A-540,C-1009,2025-12-21,email,Tom Becker,Demo of the new acoustic pod range
+A-541,C-1009,2026-08-29,note,Tom Becker,Demo of the new acoustic pod range
+A-542,C-1009,2025-12-23,meeting,Tom Becker,Sent updated price list
+A-543,C-1010,2026-05-18,email,Sofia Almeida,Contract renewal conversation
+A-544,C-1010,2026-08-01,task,Sofia Almeida,Contract renewal conversation
+A-545,C-1011,2026-05-19,email,Tom Becker,"Left voicemail, no answer"
+A-546,C-1011,2025-12-19,note,Tom Becker,Reviewed open support tickets
+A-547,C-1011,2026-08-21,task,Tom Becker,Reviewed open support tickets
+A-548,C-1011,2026-03-08,meeting,Tom Becker,Discussed upcoming office move
+A-549,C-1011,2026-08-01,meeting,Tom Becker,Quarterly check-in call
+A-550,C-1012,2026-09-24,meeting,Jack O'Neill,Discussed upcoming office move
+A-551,C-1012,2026-06-03,note,Jack O'Neill,Discussed upcoming office move
+A-552,C-1012,2026-06-06,call,Jack O'Neill,Sent updated price list
+A-553,C-1012,2026-07-01,note,Jack O'Neill,Sent updated price list
+A-554,C-1013,2025-12-10,task,Priya Raman,Contract renewal conversation
+A-555,C-1013,2026-05-10,meeting,Priya Raman,Discussed upcoming office move
+A-556,C-1013,2026-02-14,meeting,Priya Raman,Quarterly check-in call
+A-557,C-1013,2026-04-24,task,Priya Raman,Demo of the new acoustic pod range
+A-558,C-1013,2026-02-24,email,Priya Raman,Contract renewal conversation
+A-559,C-1013,2026-01-28,call,Priya Raman,Contract renewal conversation
+A-560,C-1014,2026-09-11,note,Jack O'Neill,Quarterly check-in call
+A-561,C-1014,2026-02-05,note,Jack O'Neill,"Left voicemail, no answer"
+A-562,C-1014,2026-04-18,note,Jack O'Neill,Sent updated price list
+A-563,C-1014,2026-06-30,task,Jack O'Neill,Quarterly check-in call
+A-564,C-1014,2026-02-10,note,Jack O'Neill,Quarterly check-in call
+A-565,C-1015,2026-07-08,note,Sofia Almeida,Reviewed open support tickets
+A-566,C-1015,2026-03-26,task,Sofia Almeida,Discussed upcoming office move
+A-567,C-1016,2026-05-30,note,Tom Becker,"Left voicemail, no answer"
+A-568,C-1016,2026-01-03,meeting,Tom Becker,Contract renewal conversation
+A-569,C-1016,2026-04-18,task,Tom Becker,Contract renewal conversation
+A-570,C-1017,2025-12-16,call,Priya Raman,Sent updated price list
+A-571,C-1017,2026-09-07,call,Priya Raman,Contract renewal conversation
+A-572,C-1017,2026-06-17,call,Priya Raman,Sent updated price list
+A-573,C-1017,2025-12-06,note,Priya Raman,Sent updated price list
+A-574,C-1017,2026-08-04,email,Priya Raman,"Left voicemail, no answer"
+A-575,C-1017,2026-03-28,note,Priya Raman,Sent updated price list
+A-576,C-1018,2026-03-27,note,Sofia Almeida,Quarterly check-in call
+A-577,C-1018,2026-09-06,note,Sofia Almeida,Quarterly check-in call
+A-578,C-1018,2026-01-06,meeting,Sofia Almeida,Demo of the new acoustic pod range
+A-579,C-1018,2026-01-11,call,Sofia Almeida,Quarterly check-in call
+A-580,C-1018,2026-08-04,meeting,Sofia Almeida,"Left voicemail, no answer"
+A-581,C-1018,2026-01-24,call,Sofia Almeida,Quarterly check-in call
+A-582,C-1018,2026-06-01,call,Sofia Almeida,Reviewed open support tickets
+A-583,C-1019,2026-04-18,meeting,Sofia Almeida,Sent updated price list
+A-584,C-1019,2026-07-11,note,Sofia Almeida,Discussed upcoming office move
+A-585,C-1019,2026-03-05,task,Sofia Almeida,Contract renewal conversation
+A-586,C-1020,2026-07-05,call,Jack O'Neill,Reviewed open support tickets
+A-587,C-1020,2026-04-19,email,Jack O'Neill,Contract renewal conversation
+A-588,C-1020,2025-12-09,meeting,Jack O'Neill,Sent updated price list
+A-589,C-1020,2026-02-19,email,Jack O'Neill,Demo of the new acoustic pod range
+A-590,C-1020,2026-04-23,call,Jack O'Neill,Demo of the new acoustic pod range
+A-591,C-1020,2026-03-09,meeting,Jack O'Neill,Discussed upcoming office move
+A-592,C-1021,2026-08-24,meeting,Priya Raman,"Left voicemail, no answer"
+A-593,C-1021,2026-06-22,meeting,Priya Raman,"Left voicemail, no answer"
+A-594,C-1021,2026-04-12,email,Priya Raman,Contract renewal conversation
+A-595,C-1022,2026-01-21,email,Tom Becker,Sent updated price list
+A-596,C-1022,2026-04-25,email,Tom Becker,Sent updated price list
+A-597,C-1022,2026-05-23,call,Tom Becker,Contract renewal conversation
+A-598,C-1023,2026-03-04,note,Jack O'Neill,Discussed upcoming office move
+A-599,C-1023,2026-02-06,meeting,Jack O'Neill,Reviewed open support tickets
+A-600,C-1023,2026-09-14,meeting,Jack O'Neill,Discussed upcoming office move
+A-601,C-1023,2026-02-14,call,Jack O'Neill,Demo of the new acoustic pod range
+A-602,C-1024,2026-02-06,meeting,Sofia Almeida,Reviewed open support tickets
+A-603,C-1024,2025-12-10,meeting,Sofia Almeida,Contract renewal conversation
+A-604,C-1024,2026-06-03,call,Sofia Almeida,Demo of the new acoustic pod range
+A-605,C-1024,2026-07-30,email,Sofia Almeida,Contract renewal conversation
+A-606,C-1024,2026-01-11,meeting,Sofia Almeida,Contract renewal conversation
+A-607,C-1025,2026-02-19,meeting,Priya Raman,"Left voicemail, no answer"
+A-608,C-1025,2026-04-29,meeting,Priya Raman,Quarterly check-in call
+A-609,C-1025,2025-12-19,task,Priya Raman,Quarterly check-in call
+A-610,C-1025,2025-12-05,task,Priya Raman,Quarterly check-in call
+A-611,C-1025,2026-05-21,meeting,Priya Raman,Sent updated price list
+A-612,C-1025,2026-03-04,email,Priya Raman,Discussed upcoming office move
+A-613,C-1025,2026-01-04,email,Priya Raman,"Left voicemail, no answer"
+A-614,C-1026,2026-09-15,meeting,Sofia Almeida,Quarterly check-in call
+A-615,C-1026,2026-07-06,call,Sofia Almeida,Demo of the new acoustic pod range
+A-616,C-1026,2026-02-28,note,Sofia Almeida,Sent updated price list
+A-617,C-1026,2026-02-09,meeting,Sofia Almeida,Demo of the new acoustic pod range
+A-618,C-1026,2026-04-10,call,Sofia Almeida,Contract renewal conversation
+A-619,C-1026,2026-08-13,call,Sofia Almeida,Contract renewal conversation
+A-620,C-1027,2026-04-22,note,Jack O'Neill,Contract renewal conversation
+A-621,C-1027,2026-04-13,call,Jack O'Neill,Contract renewal conversation
+A-622,C-1027,2026-02-10,meeting,Jack O'Neill,Demo of the new acoustic pod range
+A-623,C-1027,2026-06-19,task,Jack O'Neill,"Left voicemail, no answer"
+A-624,C-1027,2026-01-18,email,Jack O'Neill,"Left voicemail, no answer"
+A-625,C-1028,2026-09-02,note,Tom Becker,Quarterly check-in call
+A-626,C-1028,2026-08-27,call,Tom Becker,Demo of the new acoustic pod range
+A-627,C-1028,2026-09-23,call,Tom Becker,Demo of the new acoustic pod range
+A-628,C-1028,2025-12-30,task,Tom Becker,"Left voicemail, no answer"
+A-629,C-1028,2026-07-25,call,Tom Becker,Reviewed open support tickets
