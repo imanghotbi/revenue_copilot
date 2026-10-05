@@ -49,7 +49,7 @@ def ask(prompt, system="You are a concise sales analyst at Northwind Supply Co."
     """The simplest possible 'call a model' function. We will replace this with
     a LangChain chat model in Session 2 - notice how much this hides."""
     t0 = time.time()
-    resp = client.chat(
+    resp = client.chat_completion(
         messages=[{"role": "system", "content": system}, {"role": "user", "content": prompt}],
         max_tokens=max_tokens,
         temperature=0.0,

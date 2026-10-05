@@ -39,7 +39,7 @@ OPENROUTER_FALLBACKS = [
 ]
 GROQ_MODEL = os.environ.get("RC_GROQ_MODEL", "qwen/qwen3.8-27b")
 OPENAI_MODEL = os.environ.get("RC_OPENAI_MODEL", "gpt-4o-mini")
-HF_MODEL = os.environ.get("RC_HF_MODEL", "Qwen/Qwen3.5-9B")
+HF_MODEL = os.environ.get("RC_HF_MODEL", "Qwen/Qwen3-8B")
 HF_PROVIDER = os.environ.get("RC_HF_PROVIDER", "auto")
 
 # The small model we download and run *locally* in Session 1.  ~1 GB, runs on a

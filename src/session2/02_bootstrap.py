@@ -18,7 +18,7 @@ def _bootstrap(repo_url: str = "") -> str:
         target = os.path.join(os.getcwd(), repo_url.rstrip("/").split("/")[-1].replace(".git", ""))
         if not os.path.isdir(target):
             print(f"cloning {repo_url} ...")
-            subprocess.check_call(["git", "clone", "--depth", 1, repo_url])
+            subprocess.check_call(["git", "clone", "--depth", "1", repo_url])
         return target
 
     raise RuntimeError(

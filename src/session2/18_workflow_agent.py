@@ -3,7 +3,6 @@ def make_researcher(model):
     """A ReAct agent that can READ the CRM but cannot write to it."""
     if hasattr(model, "reset"):
         model.reset()
-    bound = model.bind_tools(crm.READ_TOOLS)
 
     def researcher(state: CopilotState) -> dict:
         task = (
